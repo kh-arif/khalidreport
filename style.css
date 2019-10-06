@@ -21,4 +21,8 @@ h1{
   cursor:pointer;
   margin: 19px 0;
   direction: inherit;
+  padding: 13px;
+}
+embed{
+  margin-top: 25px;
 }
